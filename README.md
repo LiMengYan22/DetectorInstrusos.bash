@@ -1,2 +1,4 @@
 # DetectorInstrusos.bash
-Script sencillo IDS en Terminal bash..
+Script sencillo IDS en Terminal BASH..
+
+
