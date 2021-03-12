@@ -1,4 +1,4 @@
-# DetectorInstrusos.bash
-Script sencillo IDS en Terminal BASH..
+# Detector de Instrusos en BASH
+Script sencillo I.D.S en Terminal BASH..
 
 
